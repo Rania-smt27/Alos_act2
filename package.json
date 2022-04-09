@@ -1,0 +1,25 @@
+{
+  "name": "alos_act2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rania",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "joi": "^17.6.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rania-smt27/Alos_act2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rania-smt27/Alos_act2/issues"
+  },
+  "homepage": "https://github.com/Rania-smt27/Alos_act2#readme",
+  "description": ""
+}
